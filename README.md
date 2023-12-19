@@ -1,1 +1,1 @@
-[try the app:] (https://reactquiz-application.netlify.app/)
+[try the app](https://reactquiz-application.netlify.app/)
